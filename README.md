@@ -13,7 +13,10 @@ well i have an answer for you..AND ITS PRETTY SIMPLE TO SETUP
 
 1)First open up the command prompt(cmd)
 
-2)in the cmd write :  ```bash
-                    ipconfig
+ ```bash
+   git clone https://github.com/aakif100/socials-the-UI-UX-design-.git
 ```
+
+
+
 

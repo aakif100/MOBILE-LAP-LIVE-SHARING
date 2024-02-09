@@ -28,7 +28,7 @@ well i have an answer for you..AND ITS PRETTY SIMPLE TO SETUP
  5)now go to your mobile browser(chrome preffered) and in the search bar type your IPV4 address and then the local host address which is OPENED (ie the file has to be opened and should be running)
 
  ## EXAMPLE:
-  -abc.dfc.as.wer(YOUR IPV4 ADDRESS):(localhotstnodenumber)(file location)
+  -(YOUR IPV4 ADDRESS):(localhotstnodenumber)(file location)
   <br>
   -(443.444.44.444:6060/src/index.html) ->representation purpose only
   

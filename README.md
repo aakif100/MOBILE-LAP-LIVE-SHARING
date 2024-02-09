@@ -7,6 +7,7 @@ well i have an answer for you..AND ITS PRETTY SIMPLE TO SETUP
 ## REQUIREMENTS:
 
 1)your laptop
+<br>
 2)your mobile(or any other electronic gadget)
 
 ## STEPS TO BE FOLLOWED:
@@ -21,15 +22,22 @@ well i have an answer for you..AND ITS PRETTY SIMPLE TO SETUP
 -keep your internet connection on in your phone
 
 4)now in the cmd,scroll down to the end and under "Wireless LAN adapter Wi-Fi:" check the "  IPv4 Address. . . . . . . . . . . :"
+<br>
  (IPV4 Address representation: abc.dfc.as.wer)
 
  5)now go to your mobile browser(chrome preffered) and in the search bar type your IPV4 address and then the local host address which is OPENED (ie the file has to be opened and should be running)
 
  ## EXAMPLE:
   -abc.dfc.as.wer(YOUR IPV4 ADDRESS):(localhotstnodenumber)(file location)
+  <br>
   -(443.444.44.444:6060/src/index.html) ->representation purpose only
   
 ## output
 
- now you can run the output on your mobile screen and also the changes will be seen in your mobile screen if done any
+ now you can run the output on your mobile screen and also the changes will be seen in your mobile screen if done any in your laptop...
+<br>
+ NOTE:
+ IF THERES PROBLEM IN CONNECTING WITH CHROME OR ANY OTHER BROWSER THEN US INCOGNITO MODE...
+
+ THANK YOU...........
 

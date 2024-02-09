@@ -36,6 +36,8 @@ well i have an answer for you..AND ITS PRETTY SIMPLE TO SETUP
 
  now you can run the output on your mobile screen and also the changes will be seen in your mobile screen if done any in your laptop...
 <br>
+<br>
+<br>
  NOTE:
  IF THERES PROBLEM IN CONNECTING WITH CHROME OR ANY OTHER BROWSER THEN US INCOGNITO MODE...
 

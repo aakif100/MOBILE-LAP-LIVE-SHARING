@@ -12,14 +12,16 @@ well i have an answer for you..AND ITS PRETTY SIMPLE TO SETUP
 
 ## STEPS TO BE FOLLOWED:
 
-1)First open up the command prompt(cmd)
-2)in the cmd enter:
+
+1)NOW WE HAVE TO SET UP THE CONNECTION BETWEEN YOUR PHONE AND THE LAPTOP:
+-Turn on your phone hotspot and connect it with your laptop
+-keep your internet connection on in your phone
+
+2)First open up the command prompt(cmd)
+3)in the cmd enter:
  ```bash
    ipconfig
 ```
-3)NOW WE HAVE TO SET UP THE CONNECTION BETWEEN YOUR PHONE AND THE LAPTOP:
--Turn on your phone hotspot and connect it with your laptop
--keep your internet connection on in your phone
 
 4)now in the cmd,scroll down to the end and under "Wireless LAN adapter Wi-Fi:" check the "  IPv4 Address. . . . . . . . . . . :"
 <br>
